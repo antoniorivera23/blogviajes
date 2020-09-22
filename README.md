@@ -1,2 +1,0 @@
-# blogviajes
-Pagina de viajes.
